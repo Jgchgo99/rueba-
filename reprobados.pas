@@ -1,6 +1,6 @@
 
 
-	program nota2;
+	program holaaaaa;
 
 	uses crt;
 	var
